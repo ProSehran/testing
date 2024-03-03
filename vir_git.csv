@@ -6,7 +6,7 @@ Sno,IP,Status,Link,last_analysis_stats,Country,whois_date,Last_Modification_Date
 5,103.107.198.108,Malicious,https://www.virustotal.com/gui/ip-address/103.107.198.108/detection,"{'malicious': 3, 'suspicious': 1, 'undetected': 23, 'harmless': 62, 'timeout': 0}",Singapore,2023-09-26 16:59:56,2024-03-01 19:24:54,GSL Networks Pty LTD
 6,103.107.198.109,Malicious,https://www.virustotal.com/gui/ip-address/103.107.198.109/detection,"{'malicious': 4, 'suspicious': 0, 'undetected': 23, 'harmless': 62, 'timeout': 0}",Singapore,2023-09-26 17:00:32,2024-02-28 16:25:44,GSL Networks Pty LTD
 7,103.131.189.143,Malicious,https://www.virustotal.com/gui/ip-address/103.131.189.143/detection,"{'malicious': 9, 'suspicious': 1, 'undetected': 22, 'harmless': 57, 'timeout': 0}",Taiwan,2024-02-24 13:28:54,2024-02-27 08:29:07,HostingInside LTD.
-8,103.132.242.26,,,,,,,
+8,103.132.242.26,Malicious,https://www.virustotal.com/gui/ip-address/103.132.242.26/detection,"{'malicious': 16, 'suspicious': 0, 'undetected': 17, 'harmless': 56, 'timeout': 0}",India,2024-02-03 05:56:40,2024-03-03 02:04:48,Ishans Network
 9,103.178.237.134,,,,,,,
 10,103.184.128.180,,,,,,,
 11,103.184.128.244,,,,,,,
