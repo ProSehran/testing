@@ -1,0 +1,12 @@
+Sno,IP,Status,Link,last_analysis_stats,Country,whois_date,Last_Modification_Date,AS_Owner
+1,218.92.0.125,Malicious,https://www.virustotal.com/gui/ip-address/218.92.0.125/detection,"{'malicious': 7, 'suspicious': 2, 'undetected': 20, 'harmless': 60, 'timeout': 0}",China,19-02-2024 14:51,03-03-2024 06:36,Chinanet
+2,122.180.21.165,Malicious,https://www.virustotal.com/gui/ip-address/122.180.21.165/detection,"{'malicious': 11, 'suspicious': 0, 'undetected': 22, 'harmless': 56, 'timeout': 0}",India,06-02-2024 12:14,03-03-2024 06:36,"Bharti Airtel Ltd., Telemedia Services"
+3,85.104.3.240,Malicious,https://www.virustotal.com/gui/ip-address/85.104.3.240/detection,"{'malicious': 12, 'suspicious': 1, 'undetected': 20, 'harmless': 56, 'timeout': 0}",Turkey,15-01-2024 23:18,27-02-2024 08:29,Turk Telekom
+4,120.221.212.1600,Not a valid IP address,,,,,,
+5,103.107.198.108,,,,,,,
+6,103.107.198.109,,,,,,,
+7,103.131.189.143,,,,,,,
+8,103.132.242.26,,,,,,,
+9,103.178.237.134,,,,,,,
+10,103.184.128.180,,,,,,,
+11,103.184.128.244,,,,,,,
