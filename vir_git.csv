@@ -1,12 +1,12 @@
-Sno,IP,Status,Link,last_analysis_stats,Country,whois_date,Last_Modification_Date,AS_Owner
-1,218.92.0.125,Malicious,https://www.virustotal.com/gui/ip-address/218.92.0.125/detection,"{'malicious': 7, 'suspicious': 2, 'undetected': 20, 'harmless': 60, 'timeout': 0}",China,2024-02-19 14:51:39,2024-03-04 03:08:29,Chinanet
-2,122.180.21.165,Malicious,https://www.virustotal.com/gui/ip-address/122.180.21.165/detection,"{'malicious': 11, 'suspicious': 0, 'undetected': 22, 'harmless': 56, 'timeout': 0}",India,2024-02-06 12:14:15,2024-03-04 03:08:11,"Bharti Airtel Ltd., Telemedia Services"
+﻿Sno,IP,Status,Link,last_analysis_stats,Country,whois_date,Last_Modification_Date,AS_Owner
+1,218.92.0.125,Malicious,https://www.virustotal.com/gui/ip-address/218.92.0.125/detection,"{'malicious': 7, 'suspicious': 2, 'undetected': 20, 'harmless': 60, 'timeout': 0}",China,19-02-2024 14:51,03-03-2024 06:36,Chinanet
+2,122.180.21.165,Malicious,https://www.virustotal.com/gui/ip-address/122.180.21.165/detection,"{'malicious': 11, 'suspicious': 0, 'undetected': 22, 'harmless': 56, 'timeout': 0}",India,06-02-2024 12:14,03-03-2024 06:36,"Bharti Airtel Ltd., Telemedia Services"
 3,85.104.3.240,Malicious,https://www.virustotal.com/gui/ip-address/85.104.3.240/detection,"{'malicious': 12, 'suspicious': 1, 'undetected': 20, 'harmless': 56, 'timeout': 0}",Turkey,15-01-2024 23:18,27-02-2024 08:29,Turk Telekom
 4,120.221.212.1600,Not a valid IP address,,,,,,
-5,103.107.198.108,Malicious,https://www.virustotal.com/gui/ip-address/103.107.198.108/detection,"{'malicious': 3, 'suspicious': 1, 'undetected': 23, 'harmless': 62, 'timeout': 0}",Singapore,2023-09-26 16:59:56,2024-03-01 19:24:54,GSL Networks Pty LTD
-6,103.107.198.109,Malicious,https://www.virustotal.com/gui/ip-address/103.107.198.109/detection,"{'malicious': 4, 'suspicious': 0, 'undetected': 23, 'harmless': 62, 'timeout': 0}",Singapore,2023-09-26 17:00:32,2024-02-28 16:25:44,GSL Networks Pty LTD
-7,103.131.189.143,Malicious,https://www.virustotal.com/gui/ip-address/103.131.189.143/detection,"{'malicious': 9, 'suspicious': 1, 'undetected': 22, 'harmless': 57, 'timeout': 0}",Taiwan,2024-02-24 13:28:54,2024-02-27 08:29:07,HostingInside LTD.
-8,103.132.242.26,Malicious,https://www.virustotal.com/gui/ip-address/103.132.242.26/detection,"{'malicious': 16, 'suspicious': 0, 'undetected': 17, 'harmless': 56, 'timeout': 0}",India,2024-02-03 05:56:40,2024-03-04 02:04:28,Ishans Network
-9,103.178.237.134,Malicious,https://www.virustotal.com/gui/ip-address/103.178.237.134/detection,"{'malicious': 1, 'suspicious': 0, 'undetected': 24, 'harmless': 64, 'timeout': 0}",Netherlands,2023-11-27 15:40:46,2024-02-27 08:07:15,RootLayer Web Services Ltd.
-10,103.184.128.180,Malicious,https://www.virustotal.com/gui/ip-address/103.184.128.180/detection,"{'malicious': 10, 'suspicious': 0, 'undetected': 20, 'harmless': 59, 'timeout': 0}",Indonesia,2024-01-22 03:36:55,2024-02-27 07:46:53,CV Restu Media
-11,103.184.128.244,Malicious,https://www.virustotal.com/gui/ip-address/103.184.128.244/detection,"{'malicious': 12, 'suspicious': 0, 'undetected': 21, 'harmless': 56, 'timeout': 0}",Indonesia,2024-01-22 04:33:08,2024-02-19 01:15:35,CV Restu Media
+5,103.107.198.108,,,,,,,
+6,103.107.198.109,,,,,,,
+7,103.131.189.143,,,,,,,
+8,103.132.242.26,,,,,,,
+9,103.178.237.134,,,,,,,
+10,103.184.128.180,,,,,,,
+11,103.184.128.244,,,,,,,
